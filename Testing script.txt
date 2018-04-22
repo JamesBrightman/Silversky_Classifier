@@ -1,0 +1,8 @@
+// curl -LO https://github.com/tensorflow/tensorflow/raw/master/tensorflow/examples/label_image/label_image.py
+
+
+python label_image.py \
+--graph=/E/tmp/output_graph.pb --labels=/E/tmp/output_labels.txt \
+--input_layer=Placeholder \
+--output_layer=final_result \
+--image=/E/Documents/Tensorflow_Projects/Silversky_Classifier/Test_Images/SS1.jpg
