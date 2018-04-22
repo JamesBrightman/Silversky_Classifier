@@ -18,7 +18,7 @@ After this I asked it to classify a few pictures of the SilverSky - results belo
 
 *Stratocaster*
 
-![stratcontrol](https://user-images.githubusercontent.com/35103224/39095866-547094b4-463f-11e8-810e-037a7edbbf7d.jpg)
+![image](https://user-images.githubusercontent.com/35103224/39097746-736abd36-4658-11e8-92f1-3dc01d0789c9.png)
 
 ![image](https://user-images.githubusercontent.com/35103224/39095876-9968f318-463f-11e8-9ef0-601cf09dc59e.png)
 **99% Strat**
